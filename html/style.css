@@ -1,0 +1,40 @@
+.radiobg {
+    position: absolute;
+    width: 400px;
+    height: 600px;
+    left: 1400px;
+    top: 450px;
+    background-image: url('img/radio.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#numberInput {
+    position: absolute;
+    left: 1658px;
+    top: 765px;
+    width: 100px;
+    height: 30px;
+    background-color: transparent;
+    border-radius: 30px;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+#numberInput::placeholder {
+    color: black;
+    text-align: center;
+}
+
+#submitButton {
+    position: absolute;
+    left: 1684px;
+    top: 851px;
+    width: 50px;
+    height: 20px;
+    background-color: transparent;
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+}

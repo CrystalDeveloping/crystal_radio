@@ -1,4 +1,4 @@
-# CRYSTAL RADIO
+# CRYSTAL RADIO V. BETA
 ![image](https://github.com/user-attachments/assets/0a021d80-3252-4a9d-b61a-47591baa085b)
 
 # DIPENDENZE
